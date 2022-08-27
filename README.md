@@ -11,11 +11,15 @@ Login Page:
 User Registration:
 ![image](https://user-images.githubusercontent.com/64826301/187038921-dcacd039-fe57-429b-a458-acd51c48ba22.png)
 
-Add to Cart 
+Add to Cart:
 ![image](https://user-images.githubusercontent.com/64826301/187039190-8735efd4-2688-4a4c-8d5b-fa664bbcd82d.png)
 
-Cart:
+:
 ![image](https://user-images.githubusercontent.com/64826301/187039245-4b061b2c-62cb-4310-b416-28ceed70d14c.png)
+
+Order Summary
+![image](https://user-images.githubusercontent.com/64826301/187039396-07eedcfb-470e-420f-a9d9-d0b4fa23b7db.png)
+
 
 
 
