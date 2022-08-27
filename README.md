@@ -19,8 +19,12 @@ Add to Cart:
 
 Order Summary
 ![image](https://user-images.githubusercontent.com/64826301/187039396-07eedcfb-470e-420f-a9d9-d0b4fa23b7db.png)
-Update Status:
+Update Status on author side:
 ![image](https://user-images.githubusercontent.com/64826301/187039525-6205c704-3648-4924-a3b5-46afcd4d8fbe.png)
+
+Confirmation To user:
+![image](https://user-images.githubusercontent.com/64826301/187039561-e8506c64-e506-4f6a-97ad-f22be1c24f31.png)
+
 
 
 
