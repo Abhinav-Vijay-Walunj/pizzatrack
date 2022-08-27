@@ -12,6 +12,7 @@ User Registration:
 ![image](https://user-images.githubusercontent.com/64826301/187038921-dcacd039-fe57-429b-a458-acd51c48ba22.png)
 
 Add to Cart 
+![image](https://user-images.githubusercontent.com/64826301/187039190-8735efd4-2688-4a4c-8d5b-fa664bbcd82d.png)
 
 
 
