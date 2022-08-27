@@ -11,6 +11,8 @@ Login Page:
 User Registration:
 ![image](https://user-images.githubusercontent.com/64826301/187038921-dcacd039-fe57-429b-a458-acd51c48ba22.png)
 
+Add to Cart 
+
 
 
 
