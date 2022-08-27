@@ -14,7 +14,7 @@ User Registration:
 Add to Cart:
 ![image](https://user-images.githubusercontent.com/64826301/187039190-8735efd4-2688-4a4c-8d5b-fa664bbcd82d.png)
 
-:
+ Order Summary in Picture form:
 ![image](https://user-images.githubusercontent.com/64826301/187039245-4b061b2c-62cb-4310-b416-28ceed70d14c.png)
 
 Order Summary
